@@ -34,7 +34,7 @@
 
 ## About The Project
 
-![Screen Shot](<img src="/images/Screenshot.png.png" >)
+<img src="/images/Screenshot.png.png" >
 
 Improve your typing speed with TypeWriter. WPM, accuracy rate, and other stats are generated from results. Number and Difficulty of sentences is configurable. Post to the leaderboard to show you're the fastest typist in the land!
 
