@@ -69,7 +69,6 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See [LICENSE](https://github.com/priyadarsini-gunasekaran/Simple-Typing-Game-/blob/main/LICENSE.md) for more information.
 
-## Authors
-
+## Authors:
 * **Priya Satish** - *Learning to code* - [Priya Satish](https://github.com/priyadarsini-gunasekaran/) - *Built website*
 
